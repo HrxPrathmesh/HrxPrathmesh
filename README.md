@@ -5,9 +5,6 @@ I‘m a NextJs MERN Stack Web Developer living in India, OH. By day, I do freela
 
 ### Connect with me:
 
-
-### Connect with me:
-
 [<img align="left" alt="Zach Gollwitzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Zach Gollwitzer Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Zach Gollwitzer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
