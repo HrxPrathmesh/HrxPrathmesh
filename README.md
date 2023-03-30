@@ -15,7 +15,7 @@ I‘m a NextJs MERN Stack Web Developer living in India. OH. By day, I do freela
 <br />
 
 
-[website]: https://hrxprathmesh-links.vercel.app/
+[website]: https://hrxprathmeshlinks.vercel.app/
 [twitter]: https://twitter.com/hrxprathmesh
 [youtube]: https://www.youtube.com/@hrxprathmesh
 [linkedin]: https://www.linkedin.com/in/hrxprathmesh/
