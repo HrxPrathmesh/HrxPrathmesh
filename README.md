@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I‘m a NextJs MERN Stack Web Developer living in India. OH. By day, I do freelance development alongside a portfolio of products I‘m actively maintaining or building. I‘m currently working on [Vros](https://github.com/HrxPrathmesh/Vros-Code) and [teaching web development on YouTube](https://www.youtube.com/@Vroscode)!
+I‘m a Full Stack Web Developer living in India. OH. By day, I do freelance development alongside a portfolio of products I‘m actively maintaining or building. I‘m currently working on [Vros](https://vroscode.netlify.app) and [teaching web development on YouTube](https://www.youtube.com/@Vroscode)!
 
 
 ### Connect with me:
