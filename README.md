@@ -16,7 +16,7 @@ I‘m a Full Stack Web Developer living in India. OH. By day, I do freelance dev
 <br />
 
 
-[website]: https://hrxprathmeshlinks.vercel.app/
+[website]: https://hrx-prathmesh.vercel.app/
 [twitter]: https://twitter.com/hrxprathmesh
 [youtube]: https://www.youtube.com/@hrxprathmesh
 [linkedin]: https://www.linkedin.com/in/hrxprathmesh/
