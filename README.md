@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I‘m a Full Stack Web Developer living in India. OH. By day, I do freelance development alongside a portfolio of products I‘m actively maintaining or building. I‘m currently working on [Vros](https://vroscode.netlify.app) and [teaching web development on YouTube](https://www.youtube.com/@Vroscode)!
+I‘m a Full Stack Web Developer living in India. OH. By day, I do freelance development alongside a portfolio of products I‘m actively maintaining or building. I‘m currently working on [Vros](https://vroscode.vercel.app) and [teaching web development on YouTube](https://www.youtube.com/@Vroscode)!
 
 
 ### Connect with me:
@@ -17,6 +17,6 @@ I‘m a Full Stack Web Developer living in India. OH. By day, I do freelance dev
 
 
 [website]: https://hrx-prathmesh.vercel.app/
-[twitter]: https://twitter.com/hrxprathmesh
+[twitter]: https://twitter.com/vrosprathmesh
 [youtube]: https://www.youtube.com/@hrxprathmesh
 [linkedin]: https://www.linkedin.com/in/hrxprathmesh/
