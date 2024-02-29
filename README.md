@@ -6,17 +6,17 @@ I‘m a Full Stack Web Developer living in India. OH. By day, I do freelance dev
 
 ### Connect with me:
 
-[<img align="left" alt="Hrx Prathmesh Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hrx Prathmesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Hrx Prathmesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hrx Prathmesh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Vros Prathmesh Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Vros Prathmesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Vros Prathmesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Vros Prathmesh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
 <br />
 <br />
 
 
-[website]: https://hrx-prathmesh.vercel.app/
-[twitter]: https://twitter.com/vrosprathmesh
-[youtube]: https://www.youtube.com/@hrxprathmesh
-[linkedin]: https://www.linkedin.com/in/hrxprathmesh/
+[website]: https://vrosprathmesh.vercel.app/
+[twitter]: https://x.com/vrosprathmesh
+[youtube]: https://www.youtube.com/@vrosprathmesh
+[linkedin]: https://www.linkedin.com/in/vrosprathmesh/
